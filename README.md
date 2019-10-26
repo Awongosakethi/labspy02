@@ -1,11 +1,11 @@
 # Membuat program sederhana menentukan bilangan terbesar
 
 ## Penjelasan dan langkah - langkah 
-1. Langkah pertama kita inputkan bilangan pertama sampai bilangan ketiga. Contoh Syntaxnya:
+1. Langkah pertama kita inputkan bilangan pertama sampai bilangan ketiga. Berikut contoh Syntaxnya:
    - a=int(input("masukan bilangan A: "))
    - b=int(input("masukan bilangan B: "))
    - c=int(input("masukan bilangan C: "))
-2. Langkah berikutnya kita menggunakan statement if. Contoh Syntaxnya:
+2. Langkah berikutnya kita menggunakan statement if. Berikut contoh Syntaxnya:
    - if a>b and a>c:
    - print(a, "adalah angka terbesar")
    - elif b>a and b>c:
