@@ -1,5 +1,19 @@
 # Membuat program sederhana menentukan bilangan terbesar
 
+## Syntaxnya
+- print("--------------------------------------------")
+- print("MEMBUAT PROGRAM MENENTUKAN BILANGAN TERBESAR")
+- print("--------------------------------------------")
+- a = int(input("masukan bilangan A: "))
+- b = int(input("masukan bilangan B: "))
+- c = int(input("masukan bilangan C: "))
+- if a>b and a>c:
+- print(a, "adalah angka terbesar")
+- elif b>a and b>c:
+- print(b, "adalah angka terbesar")
+- elif c>a and c>b:
+- print(c, "adalah angka terbesar")
+
 ## Penjelasan dan langkah - langkah 
 1. Langkah pertama kita inputkan bilangan pertama sampai bilangan ketiga. Berikut contoh Syntaxnya:
    - a=int(input("masukan bilangan A: "))
